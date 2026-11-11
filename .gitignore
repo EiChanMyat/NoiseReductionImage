@@ -1,0 +1,5 @@
+.venv/
+.venv-win/
+__pycache__/
+*.py[cod]
+.idea/
